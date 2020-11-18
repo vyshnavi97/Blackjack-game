@@ -1,0 +1,8 @@
+*.iml
+.idea/
+.DS_Store
+trebek*
+Trebek*
+
+target/*/
+!*.jar
